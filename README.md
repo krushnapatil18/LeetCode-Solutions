@@ -36,3 +36,11 @@ For a complete and up-to-date list of files and folders, visit the [GitHub repos
 This repository is licensed under the MIT License.
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/krushnapatil18/LeetCode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+<!---LeetCode Topics End-->
